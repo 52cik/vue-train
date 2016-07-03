@@ -1,7 +1,7 @@
 {
   "name": "vue-train",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "vue 组件化开发练习 (vue-loader)",
   "author": "楼教主 <cik520@qq.com>",
   "private": true,
   "scripts": {
