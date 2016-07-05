@@ -17,7 +17,7 @@ export function fromNow (time) {
 }
 
 function pluralize(time, label) {
-    return time + label + (time === 1 ? '' : 's')
+  return time + label + (time === 1 ? '' : 's')
 }
 
 
